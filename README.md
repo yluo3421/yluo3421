@@ -1,8 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning ...
-:laughing:
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+          
           
 <!--
 **yluo3421/yluo3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
