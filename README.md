@@ -2,9 +2,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" height="60"/>
 Welcome to Yeming's GitHub
 🌱 I’m currently learning ...<br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-          
+[![Yeming's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Yeming's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)          
 
           
 <!--
