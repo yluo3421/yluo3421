@@ -1,12 +1,9 @@
-### Hi there 👋
+### Welcome to Yeming's GitHub👋
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" height="60"/>
-Welcome to Yeming's GitHub
-🌱 I’m currently learning ...<br />
-[![Yeming's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Yeming's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)          
-
-          
+       
+![](https://github-readme-stats.vercel.app/api?username=yluo3421&show_icons=true)
+![](https://github-profile-trophy.vercel.app/?username=lilyzhaoyilu&theme=onedark&column=6)
+🌱 I’m currently learning ...<br />         
 <!--
 **yluo3421/yluo3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
