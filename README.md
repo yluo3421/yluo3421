@@ -22,8 +22,8 @@ Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Ra
 - Mahjong Matching Game | [GitHub](https://github.com/yluo3421/Phase-2-Game-Matching-Card) |
 - Sorting Algorithm Intro | [GitHub](https://github.com/yluo3421/phase-1-project)
 
-- My LinkedIn | [LinkedIn](https://www.linkedin.com/in/yeming-luo/) |
-#path-finding-algorithm-visualizer
+- [My LinkedIn](https://www.linkedin.com/in/yeming-luo/) |
+
 <!--
 **yluo3421/yluo3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
