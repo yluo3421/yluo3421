@@ -17,6 +17,7 @@ Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Ra
 
 # Projects 
 
+- Leetcode Solutions | [GitHub](https://github.com/yluo3421/Leetcode-Solutions)
 - Path-Finding Algorithms Visualizer | [Website](https://immense-badlands-89121.herokuapp.com/) | [GitHub](https://github.com/yluo3421/phase-5-project-version2) | Demo
 - NYC Park Events | [GitHub](https://github.com/omar3o3/phase-4-parks-project) |
 - Mahjong Matching Game | [GitHub](https://github.com/yluo3421/Phase-2-Game-Matching-Card) |
