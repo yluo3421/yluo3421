@@ -7,12 +7,12 @@
 </p>
 
       
-![](https://github-readme-stats.vercel.app/api?username=yluo3421&show_icons=true&theme=radical)
+
 ![](https://github-profile-trophy.vercel.app/?username=lilyzhaoyilu&theme=onedark&column=6)
 
 <br />
-🌱 I’m currently learning ...<br />   
-Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Rails! Structural Engineering and Project Management skills and relentless postivity. <br />
+🌱 I’m currently software engineer ...<br />   
+Working at Vanguard and these are what I did during my freelance. <br />
 <br />
 
 # Projects 
